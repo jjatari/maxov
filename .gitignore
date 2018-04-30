@@ -39,3 +39,7 @@ Thumbs.db
 # Build directory #
 ###################
 build/
+
+# Backup files #
+################
+*.old*
